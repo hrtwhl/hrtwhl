@@ -1,4 +1,4 @@
-## Hey there,
+### Hi 👋
 
 I'm Willi, driven by the challenge of understanding how macro shapes markets — using data, models, and economic insight. I hold a BSc in Economics from WU Vienna and am currently pursuing my MSc in Economics at the same institution.
 
