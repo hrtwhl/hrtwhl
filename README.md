@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Willi, driven by the challenge of understanding how macro shapes markets — using data, models, and economic insight. I hold a BSc in Economics from WU Vienna and am currently pursuing my MSc in Economics at the same institution. I passed the CFA Level 1 exam in August 2024. 
+I'm Willi, driven by the challenge of understanding how macro shapes markets — using data, models, and economic insight. I hold a BSc in Economics from WU Vienna and am currently pursuing my MSc in Economics at the same institution. I passed the CFA Level 1 exam in August 2024. I work in FX Trading at a large Austrian bank.
 
 Here, I share some projects I’ve developed in my free time.
 
